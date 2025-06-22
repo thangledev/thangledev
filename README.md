@@ -56,7 +56,7 @@
   <a href="https://facebook.com/lmthangle" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thangledev-facebook" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.youtube.com/@thangledev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thangledev-youtube" />
   </a>
   <a href="#" target="blank">
